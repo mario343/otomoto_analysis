@@ -1,0 +1,55 @@
+Projekcik ma za zadanie zwizualizować oferty, które są na otomoto (moze sie uda jeszcze olx, ale watpie)
+
+musimy sie zastanowić co chcemy dokładnie opisać
+
+10.06.2023
+my first take (much more to think about):
+
+
+po pobraniu info ze strony głównej, bez wchodzenia na poszczególne oferty 
+
+autka
+ ----> marki
+            -----> podział państw, skąd pochodzą,
+            -----> liczba ofert danej marki
+                    ----->  według rocznika produkcji
+                    ----->  według przebiegu
+                    ----->  według pojemności silnika
+                    ----->  według ceny
+                    ----->  według województwa
+
+            -----> liczba ofert według województwa        
+            -----> liczba ofert według ceny (heat mapa)
+
+marzy mi mapka (jakaś taka heatmapka, gdzie widać gdzie w polsce są te ogłoszenia)
+
+
+
+po pobraniu info dokładniejszego, czyli każda oferta przeglądana osobno
+
+liczba ofert według:
+-----> koloru auta (a także rodzaju tego koloru)
+-----> napędu
+-----> rodzaju skrzyni
+-----> koni mechanicznych
+-----> nadwozia
+-----> ilości drzwi
+-----> tego, czy to pierwszy właściciel
+-----> tego, czy auto jest bezwypadkowe
+-----> używane/z salonu
+-----> tego, czy auto jest zarejestrowane w polsce, czy też sprowadzane
+-----> liczba ofert (dokładniejsza), według poszczególnych modeli samochodu
+        -----> ile ich jest 
+-----> uszkodzone/nieuszkodzone
+
+generalnie myślę żeby zrobić kilka takich wykresików prezentujących np (mapka) oferty według miejscowości i województw, jakieś porównania kołowe/wykresy itd itd
+ale też myślę o takim jednym wielkim dashboardzie, gdzie można sobie znaleźć coś konkretnego
+
+np.
+szukamy citroena na terenie małopolski, który kosztuje mniej niż 20,000 zł, ma mniej niż 200,000km przebiegu o kolorze białym, w automacie
+
+i dostajemy liste takich ofert 
+
+czy to będzie wyglądać na coś podobnego na wzór wyszukiwarki na stronie? może, aczkolwiek ¯\_(ツ)_/¯ 
+
+
