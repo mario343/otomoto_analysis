@@ -1,4 +1,4 @@
-Projekcik ma za zadanie zwizualizować oferty, które są na otomoto (moze sie uda jeszcze olx, ale watpie)
+Projekcik ma za zadanie zwizualizować oferty, które są na otomoto
 
 musimy sie zastanowić co chcemy dokładnie opisać
 
@@ -53,3 +53,12 @@ i dostajemy liste takich ofert
 czy to będzie wyglądać na coś podobnego na wzór wyszukiwarki na stronie? może, aczkolwiek ¯\_(ツ)_/¯ 
 
 
+
+
+robimy to dla samochodów osobowych/dostawczych/ciężarowych/motocykli
+
+jak już się ogarnie jak zrobić jedno, np osobowe, reszta pójdzie z górki
+
+
+dla samochodów dostawczych, tirów, motocykli robimy ogólne info, 
+nie wchodzimy na kazdy kolejne ogłoszenie 
